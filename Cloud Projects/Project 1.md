@@ -2,7 +2,7 @@
 
 **Add a cover photo like:**
 ![placeholder image](https://images.pexels.com/photos/1476321/pexels-photo-1476321.jpeg)
-
+![image](https://github.com/Vargas-V/CloudP/assets/104484106/167cfd66-b578-46cb-881a-707030a1179f)
 # New post title here
 
 ## Introduction
