@@ -1,7 +1,8 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
 **Add a cover photo like:**
-![placeholder image](https://images.pexels.com/photos/1476321/pexels-photo-1476321.jpeg)
+![placeholder image](![image](https://github.com/Vargas-V/CloudP/assets/104484106/4b506fdc-2ae8-49f5-a64b-1b10fb7d17d3)
+)
 ![image](https://github.com/Vargas-V/CloudP/assets/104484106/167cfd66-b578-46cb-881a-707030a1179f)
 # New post title here
 
